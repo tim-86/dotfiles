@@ -70,3 +70,4 @@ export BROWSER='"/mnt/c/Program Files/Google/Chrome/Application/chrome.exe"'
 export BROWSER='"/mnt/c/Programme/Google/Chrome/Application/chrome.exe"'
 export BROWSER='"/mnt/c/Programme/Google/Chrome/Application/chrome.exe"'
 export BUNDLER_EDITOR="subl $@ >/dev/null 2>&1 -a"
+export BUNDLER_EDITOR="'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl' -a"
